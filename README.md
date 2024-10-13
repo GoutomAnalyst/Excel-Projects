@@ -2,7 +2,7 @@
 
 This is a call centre performing dynamic dashboard!
 
-I have used different excel consepts in this project, such as
+I have used different excel concepts in this project, such as
 ▶ Designing the dashboard color theme and fonts
 ▶ How to use Data model feature of Excel to connect datasets
 ▶ Creating KPIs and measures using Power Pivot and DAX
