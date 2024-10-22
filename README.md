@@ -10,3 +10,5 @@ I have used different excel concepts in this project, such as
 ▶ Making interactive Pivot Charts with slicers
 ▶ Applying conditional formatting to charts & tables
 ▶ Using XLOOKUP and images in Excel to show dynamic pictures
+
+![Portfolio_Project]
