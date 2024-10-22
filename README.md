@@ -11,4 +11,4 @@ I have used different excel concepts in this project, such as
 ▶ Applying conditional formatting to charts & tables
 ▶ Using XLOOKUP and images in Excel to show dynamic pictures
 
-![Portfolio_Project]
+![Portfolio_Project](https://github.com/GoutomAnalyst/Excel-Projects/blob/a8a97ea52304a5c7599ce040c30b26f4547d5502/Screenshot%20Call%20Centre%20Report.png)
